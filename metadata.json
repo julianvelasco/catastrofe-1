@@ -1,0 +1,6 @@
+{
+  "name": "Catastro Multipropósito",
+  "description": "Geoportal y Sistema de Gestión Catastral para el registro, valoración económica y análisis territorial de predios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
